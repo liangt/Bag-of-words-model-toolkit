@@ -2,6 +2,7 @@
 BoW model toolkit implemented by python
 
 The toolkit implements the bag-of-words model in computer vision. The toolkit contains the following parts:
+
 1. Feature Extract
 2. Dictionary Generate
 3. Encoding
